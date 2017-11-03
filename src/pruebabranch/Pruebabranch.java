@@ -16,6 +16,5 @@ public class Pruebabranch {
      */
     public static void main(String[] args) {
         // MASTER
-    }
-    
+    }  
 }
